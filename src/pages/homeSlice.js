@@ -24,7 +24,7 @@ export const fetchGitHubInfo = createAsyncThunk(
       return data;
     } catch (err) {
       return rejectWithValue(
-        `Error: ${err.message} the projects of ${githubUsername})`
+        `Error: ${err.message} the projects of ${githubUsername}`
       );
     }
   }
