@@ -58,7 +58,7 @@ const StyledHero = styled.header`
       animation: ${Spin} infinite 20s linear;
     }
   }
-
+/*
   @media screen and (min-width: 1180px) {
     &::before {
       background: ${({ theme }) =>
@@ -78,6 +78,7 @@ const StyledHero = styled.header`
       background-size: cover;
     }
   }
+  */
 `;
 
 export default function Hero() {
