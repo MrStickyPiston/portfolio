@@ -4,8 +4,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Dev testing
-        run: ls
       - name: Install dependencies
         run: npm install
       - name: Deploy
