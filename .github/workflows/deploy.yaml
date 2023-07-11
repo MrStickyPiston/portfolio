@@ -8,5 +8,9 @@ jobs:
         uses: actions/checkout@v1
       - name: Install dependencies
         run: npm install
+      - name: Git setup
+        run: |
+           git config --global user.email "mr.sticky.piston@gmail.com"
+           git config --global user.name "sticky"
       - name: Deploy
         run: npm run deploy
