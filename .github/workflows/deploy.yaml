@@ -1,0 +1,9 @@
+name: Deploy on github pages using Ubuntu-latest
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy
+        run: |
+          npm run deploy
