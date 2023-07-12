@@ -9,10 +9,10 @@ import { Card } from "react-bootstrap";
 
 const StyledCardComponent = styled.div`
   .card-title {
-    color: ${({ theme }) => theme.color};
+    color: ${theme === "light" ? "white" : "dark"};
   }
   .card-text {
-    color: ${({ theme }) => theme.color};
+    color: ${theme === "light" ? "white" : "dark"};
   }
 
   
