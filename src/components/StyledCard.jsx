@@ -7,6 +7,8 @@ import GH from "../images/GH.svg";
 // Components
 import { Card } from "react-bootstrap";
 
+const { theme } = useAppContext();
+
 const StyledCardComponent = styled.div`
   .card-title {
     color: ${theme === "light" ? "white" : "dark"};
