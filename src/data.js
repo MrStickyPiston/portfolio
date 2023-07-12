@@ -6,7 +6,7 @@ import {
   FaLink,
   FaJava,
   FaPython,
-  FaC,
+  TbLetterC,
   FaNodeJs,
   FaLinux
 } from "react-icons/fa";
@@ -60,7 +60,7 @@ export const skillData = [
   },
   {
     id: 4,
-    skill: <FaC className="display-4" />,
+    skill: <TbLetterC className="display-4" />,
     name: "C",
   },
   {
