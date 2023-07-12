@@ -6,10 +6,10 @@ import {
   FaLink,
   FaJava,
   FaPython,
-  TbLetterC,
   FaNodeJs,
   FaLinux
 } from "react-icons/fa";
+import { TbLetterC } from "react-icons/tb"
 import { SiJavascript, SiStyledcomponents, SiIntellijidea } from "react-icons/si";
 
 // Projects Images (add your images to the images directory and import below)
