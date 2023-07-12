@@ -43,13 +43,13 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <FaHtml5 className="display-4" />,
-    name: "HTML5",
+    skill: <FaJava className="display-4" />,
+    name: "Java",
   },
   {
     id: 2,
-    skill: <FaCss3Alt className="display-4" />,
-    name: "CSS3",
+    skill: <FaPython className="display-4" />,
+    name: "Python",
   },
   {
     id: 3,
@@ -58,33 +58,33 @@ export const skillData = [
   },
   {
     id: 4,
-    skill: <FaBootstrap className="display-4" />,
-    name: "BootStrap",
+    skill: <FaC className="display-4" />,
+    name: "C",
   },
   {
     id: 5,
+    skill: <FaNodeJS className="display-4" />,
+    name: "Node",
+  },
+  {
+    id: 6,
     skill: <FaReact className="display-4" />,
     name: "React",
   },
   {
-    id: 6,
-    skill: <SiStyledcomponents className="display-4" />,
-    name: "Styled Components",
-  },
-  {
     id: 7,
-    skill: <SiIntellijidea className="display-4" />,
-    name: "Java",
-  },
-  {
-    id: 8,
     skill: <FaGitAlt className="display-4" />,
     name: "Git",
   },
   {
-    id: 9,
-    skill: <FaGithubSquare className="display-4" />,
-    name: "GitHub",
+    id: 8,
+    skill: <FaLinux className="display-4" />,
+    name: "Linux",
+  },
+    {
+    id: 1,
+    skill: <FaHtml5 className="display-4" />,
+    name: "Web-assembly",
   },
 ];
 
