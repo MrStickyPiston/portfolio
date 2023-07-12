@@ -10,7 +10,7 @@ import {
   FaLinux
 } from "react-icons/fa";
 import { TbLetterC } from "react-icons/tb"
-import { SiJavascript, SiStyledcomponents, SiIntellijidea } from "react-icons/si";
+import { SiJavascript } from "react-icons/si";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
