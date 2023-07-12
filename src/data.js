@@ -36,7 +36,7 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy coding software and automizing processes that can be did by a computer, but are still done by hand. That way, i help other people allowing them to be more productive. If you are interested in some of those programs, you can look below.";
+  "I enjoy coding software and automizing processes that can be done by a computer, but are still done by hand. In that way, i enable other people to be more productive. If you are interested in some of those programs, you can take a look below.";
 
 /* Skills
  ************************************************************** 
