@@ -32,6 +32,9 @@
     "workbox-strategies": "^6.5.3",
     "workbox-streams": "^6.5.3"
   },
+  "overrides": {
+    "autoprefixer": "10.4.5"
+  },
   "devDependencies": {
     "react-scripts": "^5.0.1"
   },
