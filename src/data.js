@@ -1,12 +1,14 @@
 // Skills icons - https://react-icons.github.io/react-icons/
 import {
   FaHtml5,
-  FaCss3Alt,
-  FaBootstrap,
   FaReact,
   FaGitAlt,
-  FaGithubSquare,
   FaLink,
+  FaJava,
+  FaPython,
+  FaC,
+  FaNodeJs,
+  FaLinux
 } from "react-icons/fa";
 import { SiJavascript, SiStyledcomponents, SiIntellijidea } from "react-icons/si";
 
@@ -63,7 +65,7 @@ export const skillData = [
   },
   {
     id: 5,
-    skill: <FaNodeJS className="display-4" />,
+    skill: <FaNodeJs className="display-4" />,
     name: "Node",
   },
   {
