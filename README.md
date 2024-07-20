@@ -1,6 +1,6 @@
 ## portfolio
 
-This is my personal portfolio, a site 100% build & run on web.
+This is my portfolio, forked from a template.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
